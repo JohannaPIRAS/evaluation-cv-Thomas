@@ -1,0 +1,50 @@
+body {
+    background-color: #1b4f72;
+}
+
+label {
+    cursor: default;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #f5b041;
+    font-size: 22px;
+    text-align: center;
+    margin-left: 400px;
+}
+
+#email {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 100px;
+    margin-left: 320px;
+}
+
+#tel {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+
+img {
+    width: 50px;
+    margin-left: 200px;
+}
+
+#Reseaux {
+    color: black;
+    font-size: 18px;
+}
+
+h1 {
+    color: black;
+    font-size: 22px;
+    margin-left: 375px;
+}
+
+#CV input {
+    font-size: 22px;
+    display: block;
+    position: relative;
+    margin-left: 450px;
+}

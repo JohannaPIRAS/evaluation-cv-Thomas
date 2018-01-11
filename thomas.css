@@ -1,0 +1,117 @@
+/* photo cv*/
+#image_musa {
+	width: 300px;
+	margin-left: 75px;
+	margin-top: 40px;
+}
+/* logos dans centres d'interet*/
+img {
+    width: 50px;
+}
+
+body {
+    background-color: #1b4f72;
+}
+
+#job {
+    color: #f5b041;
+    text-align: center;
+    font-size: 26px;
+    margin-top: -80px;
+    margin-left: 500px;
+}
+
+#phrase_accroche {
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    border-style: dotted;
+    border-width: 3px;
+    margin-top: 100px;
+    margin-left: 550px;
+    margin-right: 40px;
+}
+/* section état civil*/
+#section_ec {
+    color: black;
+    text-align: left;
+    font-size: 18px;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #f5b041;
+    margin-right: 900px;
+    margin-top: -100px;
+}
+/* titres de toutes les sections de gauche*/
+h1 {
+    color: black;
+    font-size: 22px;
+}
+
+#section_ec p {
+    font-size: 18px;
+    text-align: center;
+}
+
+#section_ec input {
+    font-size: 18px;
+    text-align: center;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#section_lt {
+    color: black;
+    text-align: left;
+    font-size: 18px;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #f5b041;
+    margin-right: 900px;
+}
+/* section langages technos*/
+#section_lt p {
+    font-size: 18px;
+    text-align: center;
+}
+/*section centres d'intérêts*/
+#CentresI {
+    color: black;
+    text-align: left;
+    font-size: 18px;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #f5b041;
+    margin-right: 900px;
+    margin-top: 10px;
+}
+
+#CentresI p {
+    font-size: 18px;
+}
+
+#imprimer input {
+    font-size: 18px;
+    display: block;
+    position: relative;
+    margin-left: 100px;
+}
+/* compétences, projets, formations, exp pro*/
+#section_droite {
+    margin-top: -675px;
+    font-size: 18px;
+    margin-left: 550px;
+    width: 300px;
+}
+
+label {
+    cursor: default;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #f5b041;
+    font-size: 22px;
+    text-align: center;
+    margin-left: 300px;
+}
